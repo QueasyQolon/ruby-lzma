@@ -4,8 +4,6 @@
 #define __FILESTREAMS_H
 
 #ifdef _WIN32
-#include "FileIO.h"
-#else
 #include "C_FileIO.h"
 #endif
 
